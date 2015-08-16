@@ -958,8 +958,8 @@ jQuery(function () {
         this.settings = $.extend({ }, {
             "animation": "horizontal",
             "direction": "next",
-            "speed": 600,
-            "pause": 2500,
+            "speed": 1500,
+            "pause": 6500,
             "auto": true,
             "repeat": true,
             "navigator": null,
