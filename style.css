@@ -386,14 +386,14 @@ li p, .art-postcontent li p, .art-blockcontent li p
 
 .art-sheet
 {
-   background: #2D2D2D;
-   background: rgba(45, 45, 45, 0.95);
+   background: #333333;
+   background: rgba(51, 51, 51, 0.89);
    -webkit-border-radius:10px;
    -moz-border-radius:10px;
    border-radius:10px;
-   -webkit-box-shadow:0 0 5px 3px rgba(0, 0, 0, 0.19);
-   -moz-box-shadow:0 0 5px 3px rgba(0, 0, 0, 0.19);
-   box-shadow:0 0 5px 3px rgba(0, 0, 0, 0.19);
+   -webkit-box-shadow:0 0 15px 8px rgba(0, 0, 0, 0.53);
+   -moz-box-shadow:0 0 15px 8px rgba(0, 0, 0, 0.53);
+   box-shadow:0 0 15px 8px rgba(0, 0, 0, 0.53);
    margin:30px auto 0;
    position:relative;
    cursor:auto;
