@@ -3,8 +3,8 @@
 #art-main
 {
    background: #FFFFFF url('images/page.jpeg') center left fixed;
-   background: url('images/pageglare.png') no-repeat, url('images/page.jpeg') center left, #FFFFFF;
    background-attachment: fixed, fixed, scroll !important;
+   background-size: 100% 100%;
    margin:0 auto;
    font-size: 13px;
    font-family: Cuprum, Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
